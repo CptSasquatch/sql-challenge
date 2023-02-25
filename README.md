@@ -25,6 +25,10 @@
 7. A list of all employees in the Sales and Development departments, including their EmployeeID, Last Name, First Name, and department name.
 8. In descending order, a list of the frequency count of employee last names, i.e., how many employees share each last name.
 
+## output_data folder contains the ERD of the database schema:
+
+*EmployeeSQL_ERD.png
+
 ## output_data folder contains the output of the queries in CSV format as follows:
 
 *data_analysis_01.csv
