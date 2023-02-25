@@ -1,4 +1,4 @@
-## Instructions for using the EmployeeSQL database schema and loading the data
+## Instructions for using the EmployeeSQL database schema, loading the data, and running the queries. (located in the EmployeeSQL folder)
 
 ### Step 1 - Create the database 
 
