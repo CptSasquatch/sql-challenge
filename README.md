@@ -19,8 +19,8 @@
 1. A list of the EmployeeID, Last_Name, First_Name, Gender, and Salary of each employee.
 2. A list of the First_Name, Last_Name, and Hire_Date for employees who were hired in 1986.
 3. A list of the manager of each department with the following information: Department Number, Department Name, the Manager's EmployeeID, Last Name, First Name.
-4. A list of the department of each employee with the following information: EmployeeID, Last Name, First Name, and Department Name.
-5. A list of the First_Name, Last_Name, and Salary for employees whose first name is "Hercules" and last names begin with "B."
+4. A list of the department of each employee with the following information: Department Number, EmployeeID, Last Name, First Name, and Department Name.
+5. A list of the First_Name, Last_Name, and Gender for employees whose first name is "Hercules" and last names begin with "B."
 6. A list of all employees in the Sales department, including their EmployeeID, Last Name, First Name.
 7. A list of all employees in the Sales and Development departments, including their EmployeeID, Last Name, First Name, and department name.
 8. In descending order, a list of the frequency count of employee last names, i.e., how many employees share each last name.
